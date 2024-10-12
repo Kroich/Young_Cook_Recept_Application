@@ -6,4 +6,4 @@ OC:Andoid
 
 Language: Kotlin
 
-[SRC of program](Requieremenets/SRC.md)
+[SRC of program](Requirements/SRC.md)

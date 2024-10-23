@@ -1,4 +1,4 @@
-package com.example.recept_application
+package com.example.young_cook_recept_application
 
 import org.junit.Test
 

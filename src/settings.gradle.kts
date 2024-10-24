@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Young_Cook_Recept_Application"
+rootProject.name = "Young_Cook"
 include(":app")
- 
